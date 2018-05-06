@@ -1,0 +1,1 @@
+# Gofaith is a GUI framework for Go
